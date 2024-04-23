@@ -118,7 +118,9 @@ function clearDisplay() {
 }
 ```
 ## OUTPUT:
-![Screenshot (20)](https://github.com/Abishai95141/Calc/assets/139335314/5ecfc7df-2a11-4e32-807e-47dac7435e0b)
+
+![Screenshot (20)](https://github.com/Abishai95141/Calc/assets/139335314/84c93bb1-5657-4c29-a0b2-748d8963f58e)
+
 
 ![Screenshot (21)](https://github.com/Abishai95141/Calc/assets/139335314/8d39c1c2-cc0a-4522-9928-d86436ac4e48)
 
